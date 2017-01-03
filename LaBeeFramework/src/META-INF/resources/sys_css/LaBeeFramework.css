@@ -1,0 +1,171 @@
+
+/**
+    --------------------------------------------
+        インプットフォーム関連
+    --------------------------------------------
+**/
+input:focus {
+    border:1px solid #1180ee;
+    box-shadow: 0px 0px 4px rgba(14, 72, 240, 0.83);
+}
+
+/** テキストボックス    */
+.fwTextBox {
+    padding:3px;
+    font-size:16px;
+    border:1px solid #888888;
+    background-color:#FFFFFF;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;    
+}
+
+/** 入力エラー時テキストボックス  */
+.fwTextBoxError {
+    padding:3px;
+    font-size:16px;
+    border:1px solid #cc0000;
+    background-color:#FFFFFF;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;    
+    box-shadow: 0px 0px 4px rgba(240, 72, 14, 0.83);
+}
+
+/** テキストエリア    */
+.fwTextArea {
+    padding:3px;
+    font-size:16px;
+    border:1px solid #888888;
+    background-color:#FFFFFF;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;    
+ }
+
+/** 入力エラー時テキストエリア  */
+.fwTextAreaError {
+    padding:3px;
+    font-size:16px;
+    border:1px solid #cc0000;
+    background-color:#FFFFFF;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;    
+    box-shadow: 0px 0px 4px rgba(240, 72, 14, 0.83);
+}
+
+
+/**
+    --------------------------------------------
+        ポップアップダイアログ関連
+    --------------------------------------------
+**/
+
+.PopupCompleteIcon {
+    width:32px;
+    height:32px;
+    background-image: url(../sys_img/common/CompleteIcon.gif);
+    float: left;
+    margin-left:10px;
+}
+
+.PopupErrorIcon {
+    width:32px;
+    height:32px;
+    background-image: url(../sys_img/common/ErrorIcon.gif);
+    float: left;
+    margin-left:10px;
+    margin-bottom:2px;
+}
+
+.PopupWarningIcon {
+    width:32px;
+    height:32px;
+    background-image: url(../sys_img/common/WarningIcon.gif);
+    float: left;
+    margin-left:10px;
+}
+
+.PopupInfoIcon {
+    width:32px;
+    height:32px;
+    background-image: url(../sys_img/common/InfoIcon.gif);
+    float: left;
+    margin-left:10px;
+}
+
+.PopupQuestionIcon {
+    width:32px;
+    height:32px;
+    background-image: url(../sys_img/common/QuestionIcon.gif);
+    float: left;
+    margin-left:10px;
+}
+
+
+/**
+    --------------------------------------------
+        フォント関連
+    --------------------------------------------
+**/
+
+.Font12px {
+    font-size:12px;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    font-style: normal;
+    line-height: normal;
+    font-weight:normal;
+    color:#333333;
+}
+
+.Font14px {
+    font-size:14px;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    font-style: normal;
+    line-height: normal;
+    font-weight:normal;
+    color:#333333;
+}
+
+.Font16px {
+    font-size:16px;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    font-style: normal;
+    line-height: normal;
+    font-weight:normal;
+    color:#333333;
+}
+
+.Font18px {
+    font-size:18px;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    font-style: normal;
+    line-height: normal;
+    font-weight:normal;
+    color:#333333;
+}
+
+.SysError {
+    font-size:12px;
+    font-family:"ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana ,"ＭＳ Ｐゴシック",sans-serif;
+    font-style: normal;
+    line-height: normal;
+    font-weight:normal;
+    color:#EA5E5E;
+    margin-left:10px;
+}
+
+
+.Raius {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;     
+}
+
+
+

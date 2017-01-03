@@ -1,0 +1,26 @@
+$MSG_ID,ja,en
+SYS00000,入力した値にエラーがあります。内容を修正してください。,There is an error in the input value. Please correct the contents.
+SYS00001,{0}は必須入力項目です。,{0} is a required input fields.
+SYS00002,{0}に入力不可の文字が含まれています。,{0} characters in the input can not have been included in the.
+SYS00003,{0}には数値を入力してください。,Please enter a numeric value for {0}.
+SYS00004,{0}は {1}以上 {2}以下の範囲で入力してください。,{0} Please enter in a range of less than {1} more {2}. There.
+SYS00005,{0}に入力した文字数が最大値を超えています。(最大文字数={1}),Number of characters that you enter in the {0} has exceeded the maximum value. (Maximum {1})
+SYS00006,{0}に入力した文字数が最小値より下です。(最小文字数={1}),Number of characters that you enter in the {0} is lower than the minimum value.(Minimum{1})
+SYS00007,{0}は半角英数字で入力してください。,{0} Please enter alphanumeric characters.
+SYS00008,{0}は半角英数字記号で入力してください。,{0} Please enter alphanumeric symbols.
+SYS00009,{0}は全角文字で入力してください。,{0} Please enter double-byte characters.
+SYS00010,{0}は全角カナ文字で入力してください。,{0} Please enter full-width kana characters.
+SYS00011,{0}に入力出来る値は１単語のみです。,Value that can be entered in the {0} is only one word.
+SYS00012,{0}に入力した日付は存在しません。,{0} date you entered does not exist in.
+SYS00013,{0}に入力した値がEメールの書式ではありません。,The value you entered is not in the form of E-mail to {0}.
+
+SYS10001,呼びだした処理はビジネスロジックメソッドのアノテーション定義がされていません:{0},Processing to call is not in a annotation definition of business logic method: {0}
+SYS10002,実行する処理名が指定されていません:{0},Processing name to be executed is not specified: {0}
+SYS10003,存在しない処理呼び出しエラー:{0},Non-existent processing call error: {0}
+
+SYS10010,呼びだしたビジネスロジックはアノテーション定義がされていません:{0},Business logic to call is not in a annotation definition: {0}
+SYS10011,ターゲット呼び出しエラー:{0},Target call error: {0}
+SYS10012,指定した画面IDは定義されていません。：{0},Specified screen ID is not defined. : {0}
+
+SYS10020,パラメータセッター実行時にエラーが発生しました：{0},Error during a parameter setter run has occurred: {0}
+SYS10021,パラメータのセッターメソッドが見つかりません：{0},Parameters of the setter methods can not be found: {0}
